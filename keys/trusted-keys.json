@@ -1,0 +1,13 @@
+{
+  "schema": "kh-coreguard-release-keys/1",
+  "keys": [
+    {
+      "channels": [
+        "dev"
+      ],
+      "comment": "DEV channel only (owner-approved DEV key ceremony 2026-11-26; private key offline, never in the repository)",
+      "key_id": "7e9b0e6ac782de72261db275035c89c3f5a78324aab60ca587db0ab938df7979",
+      "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEnEfLMBhSV5RVQxNHzdH9/bbirQDA\n4CyhOaAxJIoyQm7WgvtN3v6Z6hCMVMOFfRdE3+EudA6kAQ7CuKxX1UHsDw==\n-----END PUBLIC KEY-----\n"
+    }
+  ]
+}
